@@ -1,1 +1,2 @@
 # optimizing-college-meals
+In a world where college students are broke and in a constant state of flux, they need food that requires the least effort and gives the most value. I will be analyzing a dataset of Recipes and Ratings and finally build a classification model that determines optimal college recipes.
